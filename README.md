@@ -1,1 +1,2 @@
-# product-page
+# Product-Page
+- Icons are sourced from nounproject.com
